@@ -114,9 +114,11 @@ invalidRequest.blockSemicolon = false
 Users who have previously configured authentication settings for the TMS/TMC may need to make a manual file edits in order to be able to log in after applying fixes. The symptom of this need is a blank browser page or a message from the browser indicating too many redirects, or similar.  
 To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the user's home folder (the user that the TMS/TMC process runs as). In this text file locate the line (typically near the bottom) that reads "/login.jsp = authc". Immediately above that line, add the three following lines if they are not present:
 
+````
 /401.jsp = anon
 /403.jsp = anon
 /404 = anon
+````
 
 
 
