@@ -260,7 +260,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   * none
  
-  
+ 
 <br>
 
 # Notes
