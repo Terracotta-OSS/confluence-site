@@ -97,6 +97,16 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * Spring Security 6.3.9
   * Spring to 6.1.19
 
+### 11.1.0.5
+* Release Date: 2025/08/22
+* Resolved
+  * [TDB-19324] TDBLibrariesStore SUM bundle includes the jdbc related jars
+  * [TDB-19324] TDBServer SUM bundle includes the client folder
+* Security Updates to Third Party Libraries
+  * commons-lang3 to 3.18.0
+  * Spring boot to 3.3.12
+  * Spring to 6.1.20
+
 
 <br>
 
