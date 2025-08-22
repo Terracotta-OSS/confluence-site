@@ -107,6 +107,18 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
     * jersey to 3.1.10
     * csrfguard to 4.4.0-jakarta
 
+
+### 4.4.1.5
+* Release Date: 2025/08/22
+* Resolved
+  * Fixed issue with deleting older versions of some libraries
+* Security Updates to Third Party Libraries
+  * [TAB-9691] Vulnerable 3rdparty component commons-lang3 used
+  * Third-party library upgrades
+    * commons-lang3 to 3.18.0
+    * Jetty update to 12.0.23
+
+
 <br>
 
 # Notes
