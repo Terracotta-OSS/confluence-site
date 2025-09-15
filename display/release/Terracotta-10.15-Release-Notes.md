@@ -349,6 +349,14 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   Spring Boot to 3.3.12
     *   Spring to 6.1.20
 
+### 10.15.0.24
+* Release Date: 2024/09/15
+* Resolved
+  * Update to ehcache 3.10.9
+  * Base image update
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Notes
