@@ -107,6 +107,14 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * Spring boot to 3.3.12
   * Spring to 6.1.20
 
+### 11.1.0.6
+* Release Date: 2025/09/22
+* Resolved
+  * Update Ehcache to 3.11.1
+* Security Updates to Third Party Libraries
+  * none
+
+
 
 <br>
 
