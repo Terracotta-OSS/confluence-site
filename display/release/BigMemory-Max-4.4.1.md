@@ -119,6 +119,16 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
     * Jetty update to 12.0.23
 
 
+### 4.4.1.6
+* Release Date: 2025/09/22
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TAB-9724] Vulnerable 3rdparty component jetty-http2-common used
+  * Third-party library upgrades
+    * Jetty updated to 12.0.25
+    * Tanuki updated to 3.5.60
+
 <br>
 
 # Notes
