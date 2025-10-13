@@ -357,6 +357,17 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * none
 
+### 10.15.0.25
+* Release Date: 2024/10/13
+* Resolved
+  * Base image update
+* Security Updates to Third Party Libraries
+  * 3rd Party Library Updates:
+    *   Parquet Avro 1.15.2 : Fixes CVE-2025-30065 & CVE-2025-46762
+    *   jackson-annotations to 2.18.1
+    *   jackson-core to 2.18.1
+    *   jackson-databind to 2.18.1
+
 <br>
 
 # Notes
