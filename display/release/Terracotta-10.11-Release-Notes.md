@@ -313,6 +313,18 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
     *   undertow 2.2.36.Final
     *   commons-codec 1.17.0
 
+### 10.11.0.29
+* Release Date: 2025/10/16
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update base docker image version
+  * 3rd Party Library Updates:
+    *   Parquet Avro 1.15.2 : Fixes CVE-2025-30065 & CVE-2025-46762
+    *   jackson-annotations 2.18.1
+    *   jackson-core 2.18.1
+    *   jackson-databind 2.18.1
+
 <br>
 
 # Notes
