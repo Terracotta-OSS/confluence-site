@@ -129,6 +129,14 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
     * Jetty updated to 12.0.25
     * Tanuki updated to 3.5.60
 
+
+### 4.4.1.7
+* Release Date: 2025/10/17
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update base docker image version
+
 <br>
 
 # Notes
