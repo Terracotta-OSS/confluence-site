@@ -325,6 +325,14 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
     *   jackson-core 2.18.1
     *   jackson-databind 2.18.1
 
+### 10.11.0.30
+* Release Date: 2025/11/03
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update base docker image version
+
+
 <br>
 
 # Notes
