@@ -310,14 +310,14 @@ BigMemory Max 4.3.x introduced the following new capabilities:
   * none
 
 ### 4.3.10.25
-* Release Date: 2024/12
+* Release Date: 2025/09
 * Resolved
   * none
 * Security Updates to Third Party Libraries
   * Update Jetty to 9.4.58.v20250814
 
 ### 4.3.10.26
-* Release Date: 2024/12
+* Release Date: 2025/11
 * Resolved
   * none
 * Security Updates to Third Party Libraries
