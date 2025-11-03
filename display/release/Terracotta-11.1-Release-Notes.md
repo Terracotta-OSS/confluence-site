@@ -125,6 +125,13 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
     *   jackson-core to 2.18.1
     *   jackson-databind to 2.18.1
 
+### 11.1.0.8
+* Release Date: 2024/11/03
+* Resolved
+  * Base image update
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Notes
