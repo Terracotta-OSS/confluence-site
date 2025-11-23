@@ -368,6 +368,13 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   jackson-core to 2.18.1
     *   jackson-databind to 2.18.1
 
+### 10.15.0.26
+* Release Date: 2024/11/23
+* Resolved
+  * Base image update
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Notes
