@@ -132,6 +132,18 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
 * Security Updates to Third Party Libraries
   * none
 
+### 11.1.0.9
+* Release Date: 2024/12/02
+* Resolved
+  * Base image update
+* Security Updates to Third Party Libraries
+  * 3rd Party Library Updates:
+    *   CVE-2023-1370 - JSON Smart to 2.4.11 
+    *   CVE-2025-9784 - Undertow to 2.3.20.Final
+    *   CVE-2023-2976, CVE-2020-8908 - Guava to 32.0.0-jre
+    *   CVE-2024-7254 - Protobuf to 3.25.8
+    *   CVE-2024-47554 - Commons IO to 2.21.0
+
 <br>
 
 # Notes
