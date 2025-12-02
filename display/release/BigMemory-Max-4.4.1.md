@@ -147,7 +147,7 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
 
 
 ### 4.4.1.9
-* Release Date: 2025/11/03
+* Release Date: 2025/12/02
 * Resolved
   * [TAB-9685] fix broken management scripts
 * Security Updates to Third Party Libraries
