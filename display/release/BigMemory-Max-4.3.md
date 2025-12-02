@@ -323,6 +323,14 @@ BigMemory Max 4.3.x introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   * Update docker base image
 
+### 4.3.10.27
+* Release Date: 2025/12
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update docker base image
+
+
 <br>
 
 # Summary of Changes 4.3.9.x
