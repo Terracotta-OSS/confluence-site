@@ -291,7 +291,8 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * Update base docker image version
 * Security Updates to Third Party Libraries
   * none
-  
+
+<!-- Next entrypoint -->  
 <br>
 
 # Notes
