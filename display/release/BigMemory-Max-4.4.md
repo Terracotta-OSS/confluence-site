@@ -280,7 +280,15 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 * Release Date: 2025/09/26
 * Resolved
   * [TAB-9721] Update tanuki to latest version for 4.4.0, 4.4.1, 4.3.10
-  *   * Update base docker image version
+  * Update base docker image version
+* Security Updates to Third Party Libraries
+  * none
+
+### 4.4.0.24
+* Release Date: 2025/12/05
+* Resolved
+  * [TAB-9685] fix broken management scripts
+  * Update base docker image version
 * Security Updates to Third Party Libraries
   * none
   
