@@ -144,6 +144,8 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
     *   CVE-2024-7254 - Protobuf to 3.25.8
     *   CVE-2024-47554 - Commons IO to 2.21.0
 
+<!-- Next entrypoint --> 
+
 <br>
 
 # Notes
