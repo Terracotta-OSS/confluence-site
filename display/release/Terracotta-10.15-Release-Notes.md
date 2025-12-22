@@ -382,6 +382,14 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * none
 
+### 10.15.0.28
+* Release Date: 2024/12/22
+* Resolved
+  * Base image update
+* Security Updates to Third Party Libraries
+  * none
+
+
 <!-- Next entrypoint --> 
 
 <br>
