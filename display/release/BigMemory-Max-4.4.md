@@ -292,6 +292,14 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   * none
 
+### 4.4.0.25
+* Release Date: 2025/12/22
+* Resolved
+  * [TAB-9630] disallow concurrent login main
+  * [WF-34500] Implementing MFA using RFC-6238
+* Security Updates to Third Party Libraries
+  * none
+    
 <!-- Next entrypoint -->  
 <br>
 
