@@ -144,6 +144,22 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
     *   CVE-2024-7254 - Protobuf to 3.25.8
     *   CVE-2024-47554 - Commons IO to 2.21.0
 
+### 11.1.0.10
+* Release Date: 2024/01/12
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update docker base image
+  * logback-classic 1.5.18 to 1.5.21
+  * logback-core 1.5.18 to 1.5.21
+  * classmate 1.7.0 to 1.7.1
+  * prometheus 1.2.1 to 1.3.10
+  * snakeyaml 2.2 to 2.4
+  * Spring Boot 3.3.13 to 3.5.8
+  * Spring Security 6.3.10 to 6.5.7
+  * Spring Framework 6.1.21 to 6.2.14
+
+
 <!-- Next entrypoint --> 
 
 <br>
