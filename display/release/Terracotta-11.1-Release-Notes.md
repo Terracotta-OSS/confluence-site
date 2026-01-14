@@ -115,7 +115,7 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * none
 
 ### 11.1.0.7
-* Release Date: 2024/10/17
+* Release Date: 2025/10/17
 * Resolved
   * Base image update
 * Security Updates to Third Party Libraries
@@ -126,14 +126,14 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
     *   jackson-databind to 2.18.1
 
 ### 11.1.0.8
-* Release Date: 2024/11/03
+* Release Date: 2025/11/03
 * Resolved
   * Base image update
 * Security Updates to Third Party Libraries
   * none
 
 ### 11.1.0.9
-* Release Date: 2024/12/02
+* Release Date: 2025/12/02
 * Resolved
   * Base image update
 * Security Updates to Third Party Libraries
@@ -145,7 +145,7 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
     *   CVE-2024-47554 - Commons IO to 2.21.0
 
 ### 11.1.0.10
-* Release Date: 2024/01/12
+* Release Date: 2026/01/12
 * Resolved
   * none
 * Security Updates to Third Party Libraries
