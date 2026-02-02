@@ -299,7 +299,14 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * [WF-34500] Implementing MFA using RFC-6238
 * Security Updates to Third Party Libraries
   * none
-    
+
+### 4.4.0.26
+* Release Date: 2025/12/22
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update base docker image version
+	
 <!-- Next entrypoint -->  
 <br>
 
