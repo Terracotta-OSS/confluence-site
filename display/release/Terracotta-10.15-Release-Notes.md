@@ -297,7 +297,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * none
 
 ### 10.15.0.20
-* Release Date: 2024/02/14
+* Release Date: 2025/02/14
 * Resolved
   * Java 17 build and support
 * Security Updates to Third Party Libraries
@@ -317,14 +317,14 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   snakeyaml 2.0 to 2.2
 
 ### 10.15.0.21
-* Release Date: 2024/02/27
+* Release Date: 2025/02/27
 * Resolved
   * Java 17 build and support
 * Security Updates to Third Party Libraries
   * none
 
 ### 10.15.0.22
-* Release Date: 2024/06/23
+* Release Date: 2025/06/23
 * Resolved
   * none
 * Security Updates to Third Party Libraries
@@ -340,7 +340,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   Spring to 6.1.19
 
 ### 10.15.0.23
-* Release Date: 2024/08/04
+* Release Date: 2025/08/04
 * Resolved
   * none
 * Security Updates to Third Party Libraries
@@ -350,7 +350,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   Spring to 6.1.20
 
 ### 10.15.0.24
-* Release Date: 2024/09/15
+* Release Date: 2025/09/15
 * Resolved
   * Update to ehcache 3.10.9
   * Base image update
@@ -358,7 +358,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * none
 
 ### 10.15.0.25
-* Release Date: 2024/10/13
+* Release Date: 2025/10/13
 * Resolved
   * Base image update
 * Security Updates to Third Party Libraries
@@ -369,26 +369,32 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   jackson-databind to 2.18.1
 
 ### 10.15.0.26
-* Release Date: 2024/11/23
+* Release Date: 2025/11/23
 * Resolved
   * Base image update
 * Security Updates to Third Party Libraries
   * none
 
 ### 10.15.0.27
-* Release Date: 2024/12/05
+* Release Date: 2025/12/05
 * Resolved
   * Base image update
 * Security Updates to Third Party Libraries
   * none
 
 ### 10.15.0.28
-* Release Date: 2024/12/22
+* Release Date: 2025/12/22
 * Resolved
   * Base image update
 * Security Updates to Third Party Libraries
   * none
 
+### 10.15.0.29
+* Release Date: 2026/02/02
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update base docker image version
 
 <!-- Next entrypoint --> 
 
