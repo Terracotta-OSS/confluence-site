@@ -159,6 +159,13 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * Spring Security 6.3.10 to 6.5.7
   * Spring Framework 6.1.21 to 6.2.14
 
+### 11.1.0.11
+* Release Date: 2026/02/23
+* Resolved
+  * TDB-19049 : Extract public Helm charts from TCDB to Helm repo (11.x)
+* Security Updates to Third Party Libraries
+  * Update docker base image
+  * TDB-19824 : Upgrade to Undertow 2.3.21.Final to fix CVE-2025-12543
 
 <!-- Next entrypoint --> 
 
