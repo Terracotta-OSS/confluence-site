@@ -396,6 +396,18 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * Update base docker image version
 
+### 10.15.0.30
+* Release Date: 2026/03/03
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * Update logback to 1.5.29
+  * Update gson to 2.11.0
+  * Update undertow to 2.3.21.Final
+  * Update slf4j to 2.0.17
+
+
 <!-- Next entrypoint --> 
 
 <br>
