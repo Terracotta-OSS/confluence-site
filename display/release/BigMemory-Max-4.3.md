@@ -337,6 +337,30 @@ BigMemory Max 4.3.x introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   * Update docker base image
 
+### 4.3.10.29
+* Release Date: 2026/02
+* Resolved
+  * Internal maintenance
+* Security Updates to Third Party Libraries
+  * Update base docker image version
+  * Remove use of vulnerable commons-lang 2.6
+
+### 4.3.10.30
+* Release Date: 2026/03
+* Resolved
+  * Internal maintenance
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * Update Jersey from 2.46 to 2.47
+
+### 4.3.10.31
+* Release Date: 2026/03
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update docker base image
+
+
 
 <!-- Next entrypoint --> 
 
