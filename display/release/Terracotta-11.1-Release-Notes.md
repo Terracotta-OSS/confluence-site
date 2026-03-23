@@ -167,6 +167,27 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * Update docker base image
   * TDB-19824 : Upgrade to Undertow 2.3.21.Final to fix CVE-2025-12543
 
+### 11.1.0.12
+* Release Date: 2026/03/06
+* Resolved
+  * Internal maintenance.
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * [TDB-19935] Update vulnerable avro-1.11.4.jar [11.1]
+  * [TDB-19986] Update logback to 1.5.32 [11.1, 10.15]
+
+### 11.1.0.13
+* Release Date: 2026/03/21
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * Library Updates:
+    * jackson to 2.19.2
+    * Parquet to 1.17.0
+    * jts-core to 1.20.0
+    * snakeyaml to 2.3
+
 <!-- Next entrypoint --> 
 
 <br>
