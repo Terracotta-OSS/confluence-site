@@ -188,6 +188,35 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
     * jts-core to 1.20.0
     * snakeyaml to 2.3
 
+### 11.1.0.14
+* Release Date: 2026/04/6
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * Library Updates:
+  * guava to 33.4.8-jre
+  * commons-codec to 1.16.0
+  * commons-io to 2.15.0
+  * commons-logging to 1.3.5
+  * aircompressor to 2.0.3
+  * undertow to 2.3.23.Final
+  * json-smart to 2.5.0
+  * accessors-smart to 2.5.0
+  * Apache Calcite to 1.41.0
+  * commons-dbcp2 to 2.11.0
+  * commons-pool2 to 2.12.0
+  * commons-text to 1.11.0
+  * httpclient5 to 5.5
+  * httpcore5 to 5.3.5
+  * httpcore5-h2 to 5.3.4
+  * commons-compiler to 3.1.12
+  * janino to 3.1.12
+  * jboss-logging to 3.6.3.Final
+  * Spring Boot to 3.5.12
+  * spring-security to 6.5.9
+  * Spring to 6.2.17
+
 <!-- Next entrypoint --> 
 
 <br>
