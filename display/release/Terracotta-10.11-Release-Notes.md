@@ -346,6 +346,15 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * Update base docker image
 
+### 10.11.0.34
+* Release Date: 2026/04/06
+* Resolved
+  * [TDB-19938] Update vulnerable avro-1.11.4.jar 
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * jackson to 2.19.2
+  * Apache Parquet to 1.16.0
+
 <!-- Next entrypoint --> 
 
 <br>
