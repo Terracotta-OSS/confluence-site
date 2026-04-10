@@ -407,6 +407,18 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Update undertow to 2.3.21.Final
   * Update slf4j to 2.0.17
 
+### 10.15.0.31
+* Release Date: 2026/04/10
+* Resolved
+  * Internal maintenance
+* Security Updates to Third Party Libraries
+  * jackson to 2.18.6
+  * undertow to 2.3.23.Final
+  * parquet to 1.17.0
+  * Spring Boot to 3.5.12
+  * Spring Security to 6.5.9
+  * Spring to 6.2.17
+
 
 <!-- Next entrypoint --> 
 
