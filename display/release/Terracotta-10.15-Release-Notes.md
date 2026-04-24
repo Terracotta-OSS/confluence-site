@@ -419,7 +419,13 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Spring Security to 6.5.9
   * Spring to 6.2.17
 
-
+### 10.15.0.32
+* Release Date: 2026/04/24
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * Update docker base image
+    
 <!-- Next entrypoint --> 
 
 <br>
