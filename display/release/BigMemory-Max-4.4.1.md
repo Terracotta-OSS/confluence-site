@@ -184,6 +184,31 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   * Update docker base image
 
+### 4.4.1.14
+* Release Date: 2026/05/01
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * [TAB-9924] Update logback to 1.5.32 [4.4.0, 4.5.0, 4.5.1]
+  * [TAB-9933] Upgrade shiro-core from 1.13.0 to 2.1.0 [4.4.1]
+  * [TAB-9946] Vulnerable 3rd party components found in the image ibmwebmethods.azurecr.io/bigmemorymax-server:4.4.1.11
+  * [TAB-9967] Update jackson-core.jar to version 2.21.1 or 3.1.0 to resolve GHSA-72hv-8253-57qq [4.4.1]
+  * [TAB-9968] Upgrade shiro-core lib for terracotta-toolkit-runtime-ee.jar - from 1.13.0 to 2.1.0 [4.4.1]
+  * Library Updates:
+    * asm to 9.9.1
+    * commons-cli to 1.11.0
+    * commons-codec to 1.21.0
+    * commons-io to 2.21.0
+    * commons-lang3 to 3.20.0
+    * guava to 33.5.0-jre
+    * jackson to 2.21.1
+    * jaxb to 4.0.7
+    * jersey to 3.1.11
+    * jetty to 12.0.34
+    * logback to 1.5.32
+    * slf4j to 2.0.17
+
 <!-- Next entrypoint --> 
 
 <br>
