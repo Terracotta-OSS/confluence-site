@@ -330,21 +330,21 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 * Resolved
   * none
 * Security Updates to Third Party Libraries
-  * Update base docker image version
+  * Update docker base image
 
 ### 10.11.0.31
 * Release Date: 2025/12/02
 * Resolved
   * none
 * Security Updates to Third Party Libraries
-  * Update base docker image
+  * Update docker base image
 
 ### 10.11.0.32
 * Release Date: 2025/12/15
 * Resolved
   * none
 * Security Updates to Third Party Libraries
-  * Update base docker image
+  * Update docker base image
 
 ### 10.11.0.34
 * Release Date: 2026/04/06
@@ -354,6 +354,20 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * jackson to 2.19.2
   * Apache Parquet to 1.16.0
+
+### 10.11.0.35
+* Release Date: 2026/04/28
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update docker base image
+
+### 10.11.0.36
+* Release Date: 2026/05/08
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update docker base image
 
 <!-- Next entrypoint --> 
 
