@@ -426,6 +426,17 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * Update docker base image
     
+### 10.15.0.33
+* Release Date: 2026/05/08
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update docker base image version 
+  * undertow to 2.3.24.Final
+  * spring boot to 3.5.14
+  * spring security to 6.5.10
+  * spring to 6.2.18
+
 <!-- Next entrypoint --> 
 
 <br>
