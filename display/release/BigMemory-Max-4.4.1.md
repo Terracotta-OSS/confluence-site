@@ -209,6 +209,18 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
     * logback to 1.5.32
     * slf4j to 2.0.17
 
+### 4.4.1.15
+* Release Date: 2026/05/18
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * undertow to 2.3.24.Final
+  * spring boot to 3.5.14
+  * spring security to 6.5.10
+  * spring to 6.2.18
+
+
 <!-- Next entrypoint --> 
 
 <br>
