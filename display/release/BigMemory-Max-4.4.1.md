@@ -212,13 +212,10 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
 ### 4.4.1.15
 * Release Date: 2026/05/18
 * Resolved
-  * Internal maintenance items
+  * Internal maintenance items.
 * Security Updates to Third Party Libraries
   * Update base docker image version 
-  * undertow to 2.3.24.Final
-  * spring boot to 3.5.14
-  * spring security to 6.5.10
-  * spring to 6.2.18
+  * [TAB-10003] Update bcprov-jdk18on-1.82.jar due to CVE-2026-0636
 
 
 <!-- Next entrypoint --> 
