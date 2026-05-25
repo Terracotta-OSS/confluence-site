@@ -306,7 +306,37 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * none
 * Security Updates to Third Party Libraries
   * Update base docker image version
-	
+
+### 4.4.0.27
+* Release Date: 2026/05/25
+* Resolved
+  * Internal maintenance items.
+  * [TAB-9934] Update README.txt file to include Shiro 2 INI password information
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * [TAB-9624] Vulnerable 3rd party component logback used [ TAB-9622 Code-Rollin 4.4.0]
+  * [TAB-9659] Logback is still vulnerable post fix installation
+  * [TAB-9787] CLONE - TC - Vulnerable 3rdparty components found in docker image ibmwebmethods.azurecr.io/webmethods-microservicesruntime:10.15.0.22 (logback)
+  * [TAB-9875] Vulnerable 3rdparty component logback-core used
+  * [TAB-9911] Update vulnerable shiro-core-1.13.0-jakarta.jar, shiro-core-1.13.0.jar
+  * [TAB-9915] Vulnerable 3rd party component shiro-core reported
+  * [TAB-9924] Update logback to 1.5.32 [4.4.0, 4.5.0, 4.5.1]
+  * [TAB-9977] Vulnerable 3rd party component jetty used [4.4.0]
+  * Library Updates:
+    * asm to 9.9.1
+    * bcprov-jdk18on to 1.84    
+    * commons-cli to 1.11.0
+    * commons-codec to 1.21.0
+    * commons-io to 2.21.0
+    * commons-lang3 to 3.20.0
+    * guava to 33.5.0-jre
+    * jackson to 2.21.1
+    * jaxb to 4.0.6
+    * jersey to 3.1.11
+    * jetty to 12.0.34
+    * logback to 1.5.32
+    * shiro to 2.1.0
+    * slf4j to 2.0.17
 <!-- Next entrypoint -->  
 <br>
 
