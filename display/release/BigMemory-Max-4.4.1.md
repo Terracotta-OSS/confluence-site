@@ -217,7 +217,15 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
   * Update base docker image version 
   * [TAB-10003] Update bcprov-jdk18on-1.82.jar due to CVE-2026-0636
 
-
+### 4.4.1.16
+* Release Date: 2026/06/11
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update docker base image version 
+  * [TAB-10016] Implicitly whitelist local connections through the Jetty handler
+  * [TAB-10020] [4.4.1] Update logback to 1.5.34 due to CVE-2026-10532, CVE-2026-9828
+  
 <!-- Next entrypoint --> 
 
 <br>
