@@ -235,6 +235,13 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * spring security to 6.5.10
   * spring to 6.2.18
 
+### 11.1.0.17
+* Release Date: 2026/06/11
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update docker base image version
+  * 
 <!-- Next entrypoint --> 
 
 <br>
