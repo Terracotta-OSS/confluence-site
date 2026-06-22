@@ -31,6 +31,7 @@ This product suite includes BigMemory Max, BigMemory Go, and Web Sessions
 
 | Release                                                     | Date              | Release Notes                                                                                                                                                                                                                                                                                                                                                                                                                       | Platform Support                                                             |
 |-------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| BigMemory 4.5.1 <br/>Ehcache 2.12.1                         | May 22, 2026      | [BigMemory Max 4.5.1](BigMemory+Max+4.5.1)                                                                                                                                                                                                                                                                                                                                                                                          | [Platform Support](Terracotta+and+BigMemory+Platform+Support)       |
 | BigMemory 4.4.1 <br/>Ehcache 2.11.1                         | Oct 25, 2024      | [BigMemory Max 4.4.1](BigMemory+Max+4.4.1)                                                                                                                                                                                                                                                                                                                                                                                          | [Platform Support](Terracotta+and+BigMemory+Platform+Support)       |
 | BigMemory 4.4.0 <br/>Ehcache 2.11.0                         | Oct 18, 2022      | [BigMemory Max 4.4](BigMemory+Max+4.4)                                                                                                                                                                                                                                                                                                                                                                                              | [Platform Support](Terracotta+and+BigMemory+Platform+Support)       |
 | BigMemory 4.3.10 <br/>Ehcache 2.10.10                       | Oct 15, 2021      | [BigMemory Max 4.3](BigMemory+Max+4.3)                                                                                                                                                                                                                                                                                                                                                                                              | [Platform Support](Terracotta+and+BigMemory+Platform+Support)           |
@@ -79,7 +80,7 @@ This product suite includes BigMemory Max, BigMemory Go, and Web Sessions
 ### Previous Releases
 *Older BigMemory Releases can be found [here](../archive/BigMemory+Release+Archive)*
 
-## Terracotta (10.x/11.x)
+## Terracotta (10.x/11.x/12.x)
 ----------------------
 
 **Terracotta** is a distributed in-memory data management solution for both operational and analytical workloads. Terracotta DB has powerful query and computation capabilities, leveraging native JDK features such as Java Streams, collections, and functions.
@@ -88,6 +89,7 @@ This product suite includes BigMemory Max, BigMemory Go, and Web Sessions
 
 | Release             | Date         | Release Notes                                                | Platform Support |
 |---------------------|--------------|--------------------------------------------------------------|------------------|
+| Terracotta 12.1.0  | May 22, 2026 | [Release Notes](Terracotta+12.1+Release+Notes)              | [Platform Support](Terracotta+and+BigMemory+Platform+Support) |
 | Terracotta 11.1.0  | Oct 25, 2024 | [Release Notes](Terracotta+11.1+Release+Notes)              | [Platform Support](Terracotta+and+BigMemory+Platform+Support) |
 | Terracotta 10.15.0  | Oct 18, 2022 | [Release Notes](Terracotta+10.15+Release+Notes)              | [Platform Support](Terracotta+and+BigMemory+Platform+Support) |
 | Terracotta 10.11.0  | Oct 15, 2021 | [Release Notes](Terracotta+10.11+Release+Notes)              | [Platform Support](Terracotta+and+BigMemory+Platform+Support) |
@@ -108,7 +110,7 @@ This product suite includes BigMemory Max, BigMemory Go, and Web Sessions
 
 
 
-## Terracotta Ehcache (10.x/11.x)
+## Terracotta Ehcache (10.x/11.x/12.x)
 ----------------------
 **Terracotta Ehcache** is a standards-based cache that boosts performance, offloads your database, and simplifies scalability. It's the most widely-used Java-based caching platform in the world for its ability to integrate with other popular libraries and frameworks like Hibernate, Spring, etc. Terracotta Ehcache scales from in-process caching, all the way to mixed in-process/out-of-process deployments with terabyte-sized caches. It strengthens distributed caching capabilities via a new generation of Terracotta server with support for high-availability and improved performance.
 
