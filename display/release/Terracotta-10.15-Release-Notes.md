@@ -443,6 +443,30 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Internal maintenance items.
 * Security Updates to Third Party Libraries
   * Update docker base image
+
+### 10.15.0.35
+* Release Date: 2026/06/22
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * prometheus to 1.4.3
+  * jakarta.annotation to 6.0
+  * commons-logging to 1.3.6
+  * smallrye to 2.14.0
+  * undertow to 2.4.0.Final
+  * jakarta.annotation-api to 3.0.0
+  * jakarta.servlet-api to 6.1.0
+  * jakarta.validation-api to 3.1.1
+  * jakarta.websocket-api to 2.2.0
+  * hibernate-validator 9.0.1.Final
+  * jboss-threads to 3.9.2
+  * wildfly-common to 2.0.1
+  * snakeyaml to 2.5
+  * Spring Boot to 4.0.6
+  * Spring Security to 7.0.5
+  * Spring to 7.0.7
+
 <!-- Next entrypoint --> 
 
 <br>
