@@ -17,12 +17,12 @@ Both sub-systems are backed by the distributed Terracotta Server, which provides
 # Current Release
 ------------------
 
-## BigMemory Max 4.4.1
-+ [BigMemory Max 4.4.1 Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.4.1)
+## BigMemory Max 4.5.1
++ [BigMemory Max 4.5.1 Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.5.1)
 + [Terracotta and BigMemory Max Platform Support](https://confluence.terracotta.org/display/release/Terracotta+and+BigMemory+Platform+Support)
 
-## Terracotta 11.1
-+ [Terracotta 11.1 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+11.1+Release+Notes)
+## Terracotta 12.1.x
++ [Terracotta 12.1 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+12.1+Release+Notes)
 + [Terracotta and BigMemory Max Platform Support](https://confluence.terracotta.org/display/release/Terracotta+and+BigMemory+Platform+Support)
 
 <br>
@@ -30,12 +30,20 @@ Both sub-systems are backed by the distributed Terracotta Server, which provides
 # Previous Release
 ------------------
 
-## BigMemory Max 4.4.x
-+ [BigMemory Max 4.4.x Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.4)
+## BigMemory Max 4.4.1
++ [BigMemory Max 4.4.1 Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.4.1)
++ [Terracotta and BigMemory Max Platform Support](https://confluence.terracotta.org/display/release/Terracotta+and+BigMemory+Platform+Support)
+
+## BigMemory Max 4.4.0
++ [BigMemory Max 4.4.0 Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.4)
 + [Terracotta and BigMemory Max Platform Support](https://confluence.terracotta.org/display/release/Terracotta+and+BigMemory+Platform+Support)
 
 ## BigMemory Max 4.3.x
 + [BigMemory Max 4.3.x Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
++ [Terracotta and BigMemory Max Platform Support](https://confluence.terracotta.org/display/release/Terracotta+and+BigMemory+Platform+Support)
+
+## Terracotta 11.1.x
++ [Terracotta 11.1 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+11.1+Release+Notes)
 + [Terracotta and BigMemory Max Platform Support](https://confluence.terracotta.org/display/release/Terracotta+and+BigMemory+Platform+Support)
 
 ## Terracotta 10.15.x
