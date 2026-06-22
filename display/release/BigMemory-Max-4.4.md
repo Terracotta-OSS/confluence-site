@@ -337,6 +337,16 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
     * logback to 1.5.32
     * shiro to 2.1.0
     * slf4j to 2.0.17
+   
+### 4.4.0.28
+* Release Date: 2026/06/22
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * [TAB-10021] [4.4.0] Update logback to 1.5.34 due to CVE-2026-10532, CVE-2026-9828
+  * [TAB-10031] Update shiro to 2.2.0 due to CVE-2026-43827, CVE-2026-43828, CVE-2026-44598, CVE-2026-48589
+
 <!-- Next entrypoint -->  
 <br>
 
