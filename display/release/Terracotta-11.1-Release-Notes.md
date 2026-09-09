@@ -288,6 +288,24 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * [TDB-20602] Update logback to 1.5.38
   * logback to 1.5.38
 
+### 11.1.0.21
+* Release Date: 2026/09/04
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update docker base image version
+  * micrometer to 1.16.7  
+  * jackson-annotations to 2.22
+  * jackson-core to 2.22.1
+  * jackson-databind to 2.22.1
+  * httpcore5 to 5.4.3
+  * httpcore5-h2 to 5.4.3
+  * Parquet avro to 1.18.0
+  * snappy-java to 1.1.10.8
+  * undertow to 2.4.3.Final
+  * Spring Boot to 4.0.8
+  * Spring Framework to 7.0.9
+
 <!-- Next entrypoint --> 
 
 <br>
