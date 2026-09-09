@@ -256,6 +256,15 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
   * jetty to 12.0.37  
   * logback to 1.5.38
 
+### 4.4.1.20
+* Release Date: 2026/09/04
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update docker base image version 
+  * [TAB-10193] Update bcprov-jdk18on to latest (1.85.2)
+  * bcprov-jdk18on to 1.85.2
+
 <!-- Next entrypoint --> 
 
 <br>
