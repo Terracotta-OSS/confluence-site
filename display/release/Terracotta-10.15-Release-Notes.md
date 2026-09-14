@@ -500,6 +500,17 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * aircompressor to 2.0.3
   * Parquet avro to 1.18.0
 
+### 10.15.0.39
+* Release Date: 2026/09/14
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * micrometer to 1.16.7
+  * jackson to 2.18.9, 2.22.1 (Parquet)
+  * Spring Boot to 4.0.8
+  * Spring Framework to 7.0.9
+
 <!-- Next entrypoint --> 
 
 <br>
