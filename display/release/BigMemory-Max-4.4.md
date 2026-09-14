@@ -377,6 +377,13 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * [TAB-10193] Update bcprov-jdk18on to latest (1.85.2)
   * bcprov-jdk18on to 1.85.2
  
+### 4.4.0.32
+* Release Date: 2026/09/14
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update docker base image
+
 
 <!-- Next entrypoint -->  
 <br>
