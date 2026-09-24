@@ -306,6 +306,19 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * Spring Boot to 4.0.8
   * Spring Framework to 7.0.9
 
+### 11.1.0.22
+* Release Date: 2026/09/21
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update docker base image version
+  * micrometer to 1.16.7  
+  * jackson-annotations to 2.18.10 (main line)
+  * jackson-core to 2.22.2, 2.18.10 (main line)
+  * commons-cli to 1.11.0
+  * commons-lang3 to 3.20.0
+  * Parquet avro to 1.18.1
+
 <!-- Next entrypoint --> 
 
 <br>
