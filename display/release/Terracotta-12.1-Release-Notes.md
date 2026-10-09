@@ -109,6 +109,20 @@ The Terracotta 12.1 release builds upon the enterprise readiness features and an
   * Spring Boot to 4.0.8
   * Spring Framework to 7.0.9
 
+### 12.1.0.5
+* Release Date: 2026/10/09
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * logback to 1.6.0
+  * jackson-annotations to 2.22
+  * jackson-core to 2.22.2
+  * jackson-databind to 2.22.2
+  * gson to 2.14.0
+  * Apache Calcite Avatica to 1.29.0
+  * Parquet Avro to 1.18.1
+  * slf4j-api to 2.0.20
+
 <!-- Next entrypoint --> 
 
 <br>
