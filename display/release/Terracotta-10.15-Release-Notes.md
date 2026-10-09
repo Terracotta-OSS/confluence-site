@@ -511,6 +511,21 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Spring Boot to 4.0.8
   * Spring Framework to 7.0.9
 
+### 10.15.0.40
+* Release Date: 2026/10/09
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * micrometer to 1.16.7
+  * jackson to 2.18.11, 2.22.2 (Parquet)
+  * commons-cli to 1.11.0
+  * commons-lang3 to 3.20.0
+  * Parquet Avro to 1.18.1
+  * Spring Boot to 4.0.8
+  * Spring Framework to 7.0.9
+  * Spring Security to 7.0.7
+
 <!-- Next entrypoint --> 
 
 <br>
