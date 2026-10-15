@@ -274,6 +274,14 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
   * jakarta.annotation-api to 2.0.0
   * slf4j-api to 2.0.17
 
+### 4.4.1.22
+* Release Date: 2026/10/15
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update docker base image version 
+  * jackson to 2.21.7
+  * Jetty to 12.0.40
 
 <!-- Next entrypoint --> 
 
