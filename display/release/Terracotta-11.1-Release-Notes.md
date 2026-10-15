@@ -319,6 +319,16 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * commons-lang3 to 3.20.0
   * Parquet avro to 1.18.1
 
+### 11.1.0.23
+* Release Date: 2026/10/15
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update docker base image version
+  * jackson to 2.18.11
+  * Calcite to 1.29.0
+
+
 <!-- Next entrypoint --> 
 
 <br>
