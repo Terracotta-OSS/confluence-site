@@ -123,6 +123,17 @@ The Terracotta 12.1 release builds upon the enterprise readiness features and an
   * Parquet Avro to 1.18.1
   * slf4j-api to 2.0.20
 
+### 12.1.0.6
+* Release Date: 2026/10/26
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * logback to 1.6.5
+  * commons-lang3 to 3.21.0
+  * slf4j to 2.0.20
+  * snappy-java to 1.1.10.12
+
 <!-- Next entrypoint --> 
 
 <br>
