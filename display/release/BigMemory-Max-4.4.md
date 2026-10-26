@@ -393,6 +393,21 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * jackson to 2.21.7
   * Jetty to 12.0.39  
 
+### 4.4.0.34
+* Release Date: 2026/10/26
+* Resolved
+  * Internal maintenance items
+  * [TAB-10255] BigMemory Max Fix 31 installed but facing slowness in TC querying  
+  * [TAB-10242] IBM BigMemory Max Server Image entrypoint looks for a license  
+* Security Updates to Third Party Libraries
+  * [TAB-10252] Security Vulnerability- Big Memory Max 4.4.0.32
+  * Update base docker image version 
+  * bcprov-jdk18on to 1.68
+  * logback to 1.6.5
+  * guava to 33.7.2-jre  
+  * Jetty to 12.0.40
+  * slf4j to 2.0.20
+
 <!-- Next entrypoint -->  
 <br>
 
