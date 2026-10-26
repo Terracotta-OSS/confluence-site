@@ -526,6 +526,17 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Spring Framework to 7.0.9
   * Spring Security to 7.0.7
 
+### 10.15.0.41
+* Release Date: 2026/10/26
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * logback to 1.6.5
+  * commons-lang3 to 3.21.0
+  * slf4j to 2.0.20
+  * snappy-java to 1.1.10.12
+
 <!-- Next entrypoint --> 
 
 <br>
