@@ -283,6 +283,16 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
   * jackson to 2.21.7
   * Jetty to 12.0.40
 
+### 4.4.1.23
+* Release Date: 2026/11/2
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update docker base image version 
+  * logback to 1.6.5
+  * guava to 33.7.2-jre
+  * slf4j to 2.0.20
+
 <!-- Next entrypoint --> 
 
 <br>
