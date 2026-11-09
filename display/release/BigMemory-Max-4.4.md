@@ -408,6 +408,17 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * Jetty to 12.0.40
   * slf4j to 2.0.20
 
+### 4.4.0.35
+* Release Date: 2026/11/08
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * logback to 1.6.6
+  * jackson update to 2.21.8
+  * json-smart to 2.4.11
+  * shiro to 3.0.1
+
 <!-- Next entrypoint -->  
 <br>
 
