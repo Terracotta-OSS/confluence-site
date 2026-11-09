@@ -134,6 +134,21 @@ The Terracotta 12.1 release builds upon the enterprise readiness features and an
   * slf4j to 2.0.20
   * snappy-java to 1.1.10.12
 
+### 12.1.0.7
+* Release Date: 2026/11/10
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * jackson to 2.21.8
+  * commons-codec to 1.23.0
+  * prometheus to 1.7.0
+  * undertow-core to 2.4.4.Final
+  * snakeyaml to 2.6
+  * Spring Boot to 4.1.2
+  * Spring Security to 7.1.2
+  * Spring to 7.0.10
+
 <!-- Next entrypoint --> 
 
 <br>
